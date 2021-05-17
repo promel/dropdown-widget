@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "name": "Some Schooling",
+        "active": false
+    },
+    {
+        "id": 2,
+        "name": "Grade 9",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Grade 10",
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Grade 11",
+        "active": true
+    },
+    {
+        "id": 5,
+        "name": "Grade 12 / Matric",
+        "active": false
+    },
+    {
+        "id": 6,
+        "name": "Certificate",
+        "active": true
+    },
+    {
+        "id": 7,
+        "name": "Diploma",
+        "active": true
+    },
+    {
+        "id": 8,
+        "name": "Degree",
+        "active": true
+    },
+    {
+        "id": 9,
+        "name": "Honours",
+        "active": true
+    },
+    {
+        "id": 10,
+        "name": "Professional Qualification",
+        "active": true
+    },
+    {
+        "id": 11,
+        "name": "Masters",
+        "active": true
+    },
+    {
+        "id": 12,
+        "name": "Doctorate",
+        "active": true
+    }
+]

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Widget</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./css/main.css'>
+
+</head>
+
+<body onload="getqualifications()">
+    <!-- <form> -->
+    <div>
+        <label>Highest Qualification</label>
+    </div>
+    <select id="qualification">
+            <option value="">
+                <label>Please select...</label>
+            </option>
+        </select>
+    <div class="response">
+        <label id="response"></label>
+    </div>
+    <div>
+        <button type="button" class="button" onclick="submit()">Submit</button>
+    </div>
+    <!-- </form> -->
+    <script src='./js/main.js'></script>
+</body>
+
+</html>
